@@ -29,10 +29,3 @@ The objective of this project is to build a deep learning model that can accurat
 - **Matplotlib** 
 - **Jupyter Notebook**
 
----
-
-## 🚀 How to Run
-1. Clone this repo  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
